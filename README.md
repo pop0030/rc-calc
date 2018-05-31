@@ -2,18 +2,17 @@
 
 Just for fun and practice.
 
-# Install
+Install
 ```sh
 yarn
 ```
 
-# Start dev
+Start dev
 ```sh
 yarn dev
 ```
 
-# Build App
-
+Build App
 ```sh
 yarn build
 ```
